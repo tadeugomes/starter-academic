@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include environmental valuation and business analytics.
 
 interests:
-- Machine Learning
 - Environmental Valuation
 - Business Analytics
+- Machine Learning
+
 
 education:
   courses:
@@ -45,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "tadeu.teixeira@ufma.br".
-- icon: twitter
+#- icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
