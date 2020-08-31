@@ -33,7 +33,7 @@ education:
   - course: Especialização em Gestão de Organizações de Ciência e Tecnologia
     institution: Escola Nacional de Saúde Pública (Ensp-Fiocruz)
     year: 2013
-  - course:Mestrado em Administração
+  - course: Mestrado em Administração
     institution: Universidade Federal do Espírito Santo (UFES)
     year: 2010
 
