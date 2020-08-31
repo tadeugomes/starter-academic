@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "tadeu.teixeira@ufma.br".
-#- icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147
 - icon: google-scholar
