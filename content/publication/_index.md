@@ -13,3 +13,7 @@ header:
   caption: ""
   image: ""
 ---
+
+hugo new publication/artigo-1.md
+
+
