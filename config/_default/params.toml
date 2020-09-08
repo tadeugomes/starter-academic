@@ -100,22 +100,22 @@ address = {street = "Avenida dos Portugueses, 1966", city = "São Luís", region
 coordinates = {latitude = "-2.558041", longitude = "-44.309025"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Centro de Ciências Sociais - Departamento de Ciências Contábeis, Imobiliárias e Administração"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Segunda à Sexta", "Horário comercial"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "wwww.ufma.br"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "linkedin", icon_pack = "fab", name = "DM", link = " linkedin.com/in/tadeu-gomes-teixeira-a12358147"},
+  {icon = "email", icon_pack = "fas", name = "E-mail", link = "tadeu.teixeira@ufma.br"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
