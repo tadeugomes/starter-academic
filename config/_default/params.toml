@@ -114,7 +114,7 @@ office_hours = ["Segunda à Sexta", "Horário comercial"]
 contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "linkedin", icon_pack = "fab", name = "Send a message", link = " linkedin.com/in/tadeu-gomes-teixeira-a12358147"},
+  {icon = "linkedin", icon_pack = "fab", name = "Send a message", link = "https://linkedin.com/in/tadeu-gomes-teixeira-a12358147"},
   {icon = "envelope", icon_pack = "fas", name = "Email", link = "tadeu.teixeira@ufma.br"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
