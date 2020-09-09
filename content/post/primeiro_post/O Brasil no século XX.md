@@ -33,6 +33,8 @@ E também imagens:
 
 ![image alt text](/Rplot01.png)
 
+<img class="special-img-class" src="/Rplot01.png" />
+
 
 
 
