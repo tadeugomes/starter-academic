@@ -33,4 +33,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-![png](./featured.png)
+![png](/featured.png)
