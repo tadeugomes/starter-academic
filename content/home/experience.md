@@ -27,10 +27,12 @@ date_format = "Jan 2006"
   description = """
   #Responsibilities include:
   
-  #* Analysing
-  #* Modelling
-  #* Deploying
-  #"""
+  *Teaching
+  *Research guidance
+  *Academic research
+  *Extension Projects
+  *Management
+  """
 
 [[experience]]
   title = "Management Analist"
