@@ -34,7 +34,5 @@ Não sabemos exatamente. Vamos acompanhar:
 E também imagens: 
 ![image alt text]("/featured.png")
 
-E outra **aqui**: 
 
-![foto]("/minha.jpg")
 
