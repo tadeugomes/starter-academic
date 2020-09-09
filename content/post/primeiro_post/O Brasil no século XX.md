@@ -31,8 +31,6 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-![imagem](/Rplot01.png)
-
-
+![teste](/static/Rplot01.png)
 
 
