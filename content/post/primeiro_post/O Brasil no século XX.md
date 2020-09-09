@@ -32,7 +32,10 @@ Não sabemos exatamente. Vamos acompanhar:
 
 
 E também imagens: 
+
 ![image alt text]("/featured.png")
+
+
 
 
 
