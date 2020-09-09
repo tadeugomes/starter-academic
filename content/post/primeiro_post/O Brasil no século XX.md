@@ -29,11 +29,11 @@ Não sabemos exatamente. Vamos acompanhar:
 
 `a<- c("A", "B")`
 
-
-
 E também imagens: 
 
-![image alt text]("/featured.png")
+![image text]("/featured.png")
+
+
 
 
 
