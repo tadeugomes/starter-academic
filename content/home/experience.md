@@ -38,13 +38,13 @@ date_format = "Jan 2006"
   title = "Management Analist"
   company = "Fiocruz - Oswaldo Cruz Foundation (Brazil)"
   company_url = "https://portal.fiocruz.br/"
-  location = "Rio de Janeiro (Brazil)"
+  location = "Rio de Janeiro"
   date_start = "2012-06-01"
   date_end = "2014-08-06"
   description = """
   Responsibilities include:
 
-*People management
+  *People management
   *Head of Personnel Department
   *Promotion of diversity and quality of life at work"""
 
