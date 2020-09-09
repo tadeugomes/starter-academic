@@ -36,5 +36,5 @@ E também imagens:
 
 E outra **aqui**: 
 
-![image alt text]("/minha.jpg")
+![foto]("/minha.jpg")
 
