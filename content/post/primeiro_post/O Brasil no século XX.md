@@ -1,8 +1,17 @@
 ---
-title: O Brasil no Século XX
+title: "O Brasil no Século XX - Novas perspectivas "
 date: 2020-09-08
-authors: ["admin"]
+draft: true
 featured: true
+authors:
+  - admin
+tags:
+  - Brazil
+categories:
+  - Opiniao
+image:
+  filename: Rplot01.png
+  preview_only: false
 ---
 
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
