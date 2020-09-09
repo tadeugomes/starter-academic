@@ -32,7 +32,6 @@ Não sabemos exatamente. Vamos acompanhar:
 
 
 E também imagens: 
-
 <img class="special-img-class" src="/feature.png" />
 
 
