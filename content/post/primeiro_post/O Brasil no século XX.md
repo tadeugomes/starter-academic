@@ -31,7 +31,7 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-![image text](/Rplot01.png)
+![image text]("/Rplot01.png")
 
 
 
