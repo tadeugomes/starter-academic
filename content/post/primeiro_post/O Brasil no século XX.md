@@ -1,13 +1,7 @@
 ---
 title: O Brasil no Século XX
 date: 2020-09-08
-math: true
 author: [admin]
-diagram: true
-image:
-  placement: 3
-
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
@@ -38,4 +32,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-{{< figure src="featured.png" title="Livros Promocionais do PIBIC" >}}
+{{< figure src="featured.png" title="A caption" >}}
