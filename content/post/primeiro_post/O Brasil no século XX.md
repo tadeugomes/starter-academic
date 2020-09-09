@@ -30,4 +30,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-![](/home/tadeu/Videos/livros_pibic_.png)
+{{< figure src="livros_pibic_.png" title="Livros Promocionais do PIBIC" >}}
