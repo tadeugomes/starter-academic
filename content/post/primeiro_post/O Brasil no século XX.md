@@ -1,7 +1,7 @@
 ---
 title: O Brasil no Século XX
 date: 2020-09-08
-author: [admin]
+authors: ["admin"]
 ---
 
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
