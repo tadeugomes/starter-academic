@@ -1,7 +1,13 @@
-# O Brasil no século XX 
-title: O Brasil no século XX 
-date: "set 2020"
-authors: ["admin"].
+---
+title: Writing technical content in Academic
+date: 2019-07-12
+math: true
+diagram: true
+image:
+  placement: 3
+
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+---
 
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
 
