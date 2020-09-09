@@ -32,6 +32,6 @@ Não sabemos exatamente. Vamos acompanhar:
 
 
 E também imagens: 
+![image alt text]("/featured.png")
 
-<img class="special-img-class" src="/featured.png" />
-
+<img class="special-img-class" src="/feature.png" />
