@@ -3,7 +3,7 @@ title: "O Brasil no Século XX - Novas perspectivas "
 subtitle: Um olhar acabrunhado
 date: 2020-09-09T14:08:44.791Z
 draft: false
-featured: true
+featured: false
 authors:
   - admin
 tags:
@@ -11,23 +11,20 @@ tags:
 categories:
   - Opiniao
 image:
-  filename: Rplot01.png
+  filename: featured.png
   preview_only: false
 ---
-
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
 
 Seria possível destacar o texto, como a inserção de **negrito**? 
 
 Outro aspecto são as listas: 
 
-- Missão;
-- Visão; 
-- Valores. 
+* Missão;
+* Visão; 
+* Valores. 
 
-### Agora é a hora? 
-
-
+### Agora é a hora?
 
 Não sabemos exatamente. Vamos acompanhar: 
 
@@ -41,6 +38,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-![teste](/static/Rplot01.png)
-
-
+![teste](Rplot01.png)
