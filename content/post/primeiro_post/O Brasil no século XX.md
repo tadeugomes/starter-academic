@@ -1,6 +1,7 @@
 ---
 title: O Brasil no Século XX
 date: 2020-09-08
+tags: ["Teste", "Nuvem"].
 authors: ["admin"]
 ---
 
