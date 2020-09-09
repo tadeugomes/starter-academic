@@ -2,6 +2,7 @@
 title: O Brasil no Século XX
 date: 2020-09-08
 math: true
+author: [admin]
 diagram: true
 image:
   placement: 3
