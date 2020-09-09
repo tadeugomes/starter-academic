@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: O Brasil no Século XX
+date: 2020-09-08
 math: true
 diagram: true
 image:
@@ -37,4 +37,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-{{< figure src="livros_pibic_.png" title="Livros Promocionais do PIBIC" >}}
+{{< figure src="featured.png" title="Livros Promocionais do PIBIC" >}}
