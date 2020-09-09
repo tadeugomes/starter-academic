@@ -33,4 +33,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-{{< figure library="true" src="featured.jpg" title="A caption" >}}
+![png](./featured.png)
