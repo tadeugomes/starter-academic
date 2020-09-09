@@ -1,6 +1,7 @@
-## O Brasil no século XX 
-
-
+# O Brasil no século XX 
+title: O Brasil no século XX 
+date: "set 2020"
+authors: ["admin"].
 
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
 
