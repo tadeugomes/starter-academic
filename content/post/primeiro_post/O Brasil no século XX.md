@@ -32,4 +32,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-{{< figure src="featured.png" title="A caption" >}}
+{{< figure library="true" src="featured.jpg" title="A caption" >}}
