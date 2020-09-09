@@ -1,5 +1,6 @@
 ---
 title: "O Brasil no Século XX - Novas perspectivas "
+subtitle: Um olhar acabrunhado
 date: 2020-09-08
 draft: true
 featured: true
