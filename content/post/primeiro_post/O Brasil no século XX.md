@@ -3,7 +3,7 @@ title: "O Brasil no Século XX - Novas perspectivas "
 subtitle: Um olhar acabrunhado
 date: 2020-09-09T14:08:44.791Z
 draft: false
-featured: true
+featured: false
 authors:
   - admin
 tags:
@@ -38,4 +38,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E ainda tem (ou teria), condições de inserir imagens: 
 
-![](featured.png)
+<https://media.giphy.com/media/lXiRsXOUUUdfHCOOY/giphy.gif>
