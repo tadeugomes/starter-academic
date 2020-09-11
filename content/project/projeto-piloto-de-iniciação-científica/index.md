@@ -2,7 +2,7 @@
 title: Projeto Piloto de Iniciação Científica
 date: 2020-09-11T20:42:58.642Z
 draft: false
-featured: false
+featured: true
 external_link: https://tadeuteixeira.netlify.app/#projects
 image:
   filename: logo.png
