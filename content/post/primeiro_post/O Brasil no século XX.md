@@ -3,17 +3,17 @@ title: "O Brasil no Século XX "
 subtitle: Um olhar acabrunhado
 date: 2020-09-09T14:08:44.791Z
 draft: false
-featured: false
+featured: true
 authors:
-  - admin
+  - ""
 tags:
-  - Brazil
+  - ""
 categories:
   - Opiniao
 image:
   filename: featured.jpg
   preview_only: false
-  focal_point: left
+  focal_point: center
 ---
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
 
@@ -35,8 +35,8 @@ Não sabemos exatamente. Vamos acompanhar:
 |       |           |       |
 |       |           |       |
 
-`a<- c("A", "B")`
+``
 
-E ainda tem (ou teria), condições de inserir imagens: 
+
 
 ![x](objetivos.jpg "Calendário Covid")
