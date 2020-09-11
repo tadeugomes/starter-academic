@@ -1,7 +1,7 @@
 ---
 title: Observatório do Mercado de Trabalho do Maranhão
 date: 2020-09-11T20:57:39.886Z
-summary: Aqui pode ser outro tipo de conteúdo do projeto.
+summary: ""
 draft: false
 featured: true
 authors:
@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-O OMT-MA surgiu com o propósito de desenvolver estudos sobre o mercado de trabalho a partir de uma lógica local.
+O OMT-MA surgiu com o propósito de desenvolver estudos sobre o mercado de trabalho a partir de uma lógica local. Aqui pode ser outro tipo de conteúdo do projeto.
