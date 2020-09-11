@@ -11,7 +11,7 @@ tags:
 categories:
   - Opiniao
 image:
-  filename: featured.png
+  filename: featured.jpg
   preview_only: false
   focal_point: left
 ---
@@ -39,4 +39,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E ainda tem (ou teria), condições de inserir imagens: 
 
-![x](logo_sem_fundo.png "Calendário Covid")
+![x](objetivos.jpg "Calendário Covid")
