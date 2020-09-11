@@ -3,9 +3,11 @@ title: Projeto Piloto de Iniciação Científica
 date: 2020-09-11T20:42:58.642Z
 draft: false
 featured: true
+categories:
+  - PIBIC
 external_link: https://tadeuteixeira.netlify.app/#projects
 image:
-  filename: logo.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
