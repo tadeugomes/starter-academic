@@ -38,4 +38,6 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E ainda tem (ou teria), condições de inserir imagens: 
 
-<https://media.giphy.com/media/lXiRsXOUUUdfHCOOY/giphy.gif>
+
+
+![x](featured.png "Calendário Covid")
