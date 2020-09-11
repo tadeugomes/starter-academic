@@ -13,6 +13,7 @@ categories:
 image:
   filename: featured.png
   preview_only: false
+  focal_point: left
 ---
 Trata-se de uma alegoria do estado de direito e das manifestações possíveis diante desses fatos. 
 
@@ -38,6 +39,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E ainda tem (ou teria), condições de inserir imagens: 
 
-
-
-![x](featured.png "Calendário Covid")
+![x](logo_sem_fundo.png "Calendário Covid")
