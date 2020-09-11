@@ -4,7 +4,7 @@ subtitle: A esperança de inserir imagens no post
 date: 2020-09-11T22:05:35.269Z
 summary: Uma imagem pode ser muito importante
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Center
