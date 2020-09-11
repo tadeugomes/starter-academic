@@ -11,3 +11,5 @@ image:
   preview_only: false
 ---
 A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real. [Wikipédia](https://pt.wikipedia.org/wiki/Lorem_ipsum)
+
+![](img001.jpg)
