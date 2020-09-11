@@ -38,4 +38,4 @@ Não sabemos exatamente. Vamos acompanhar:
 
 E também imagens: 
 
-![teste](Rplot01.png)
+![teste](featured.png)
