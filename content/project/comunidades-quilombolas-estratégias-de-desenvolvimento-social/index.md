@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-Coordenei esse projeto de pesquisa e extensão com comunidades quilombolas do Maranhão em 2015. A proposta era auxiliar as comunidades no processo de acesso a políticas públicas e sociais. Tivemos ótimos resultados, que podem ser conferidos na página do projeto, que foi finalizado em 2016.
+Coordenei esse projeto de pesquisa e extensão com comunidades quilombolas do Maranhão em 2015. A proposta era auxiliar as comunidades no processo de acesso a políticas públicas e sociais. Tivemos ótimos resultados, que podem ser conferidos na página do projeto, finalizado em 2016.
