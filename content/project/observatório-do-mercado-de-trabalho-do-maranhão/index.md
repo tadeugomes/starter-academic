@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-O Observatório do Mercado de Trabalho no Maranhão (OMT-MA) resulta de uma parceria entre a Universidade Federal do Maranhão e o Ministério da Economia. Trata-se uma unidade local da rede de Observatórios do Trabalho articulada pelo Observatório Nacional do Mercado de Trabalho do Ministério da Economia. Os boletins e resultados obtidos podem ser consultados na página do projeto.
+O Observatório do Mercado de Trabalho no Maranhão (OMT-MA) resultou de uma parceria entre a Universidade Federal do Maranhão e o Ministério da Economia. Trata-se uma unidade local da rede de Observatórios do Trabalho articulada pelo Observatório Nacional do Mercado de Trabalho do Ministério da Economia. Os boletins e resultados obtidos podem ser consultados na página do projeto. O projeto teve vigência entre 2016 e 2020.
