@@ -8,9 +8,9 @@ external_link: https://tadeugteixeira.wixsite.com/quilombosdepinheiro/sobre-os-p
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
-Coordenei um projeto de pesquisa e extensão com comunidades quilombolas do Maranhão em 2015. A proposta do trabalho era auxiliar as comunidades no processo de acesso a políticas públicas e sociais. Tivemos ótimos resultados.
+Coordenei um projeto de pesquisa e extensão com comunidades quilombolas do Maranhão em 2015. A proposta do trabalho era auxiliar as comunidades no processo de acesso a políticas públicas e sociais. Tivemos ótimos resultados, que podem ser conferidos na página do projeto, cuja vigência foi entre 2015 e 2016. 
 
 * 8 (oito) comunidades reconhecidas como quilombolas pela Fundação Cultural Palmares;
 * Capacitação de lideranças comunitárias sobre o acesso a políticas públicas;
