@@ -23,7 +23,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com.br/citations?user=tZK35b0AAAAJ&hl=pt-BR&oi=ao
   - icon: github
-    icon_pack: fas
+    icon_pack: ai
     link: https://github.com/tadeugomes
 education:
   courses:
@@ -36,7 +36,7 @@ education:
     - course: Mestrado em Administração
       institution: Universidade Federal do Espírito Santo (UFES)
       year: 2010
-email: tadeu.teixeira@ufma.br
+email: tadeu.teixeira arroba ufma.br
 user_groups:
   - Researchers
   - Visitors
