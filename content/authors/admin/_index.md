@@ -23,7 +23,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com.br/citations?user=tZK35b0AAAAJ&hl=pt-BR&oi=ao
   - icon: github
-    icon_pack: fab
+    icon_pack: fas
     link: https://github.com/tadeugomes
 education:
   courses:
