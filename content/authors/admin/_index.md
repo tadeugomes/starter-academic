@@ -19,8 +19,11 @@ social:
   - icon: linkedin
     icon_pack: ai
     link: https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147
+  - icon: lattes
+    icon_pack: ai
+    link: http://lattes.cnpq.br/1407576230140190   
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com.br/citations?user=tZK35b0AAAAJ&hl=pt-BR&oi=ao
   - icon: github
     icon_pack: ai
