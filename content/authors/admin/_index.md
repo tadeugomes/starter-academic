@@ -14,7 +14,7 @@ interests:
   - Applied Machine Learning
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: ai
     link: tadeu.teixeira@ufma.br
   - icon: linkedin
     icon_pack: fab
