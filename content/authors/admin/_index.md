@@ -15,12 +15,12 @@ interests:
 social:
   - icon: envelope
     icon_pack: ai
-    link: tadeu.teixeira@ufma.br
+    link: tadeu.teixeira arroba ufma.br
   - icon: linkedin
     icon_pack: fab
     link: https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com.br/citations?user=tZK35b0AAAAJ&hl=pt-BR&oi=ao
   - icon: github
     icon_pack: fab
