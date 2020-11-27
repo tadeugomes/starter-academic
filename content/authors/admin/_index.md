@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: ai
-    link: tadeu.teixeira arroba ufma.br
+    link: tadeu.teixeira@ufma.br
   - icon: linkedin
     icon_pack: ai
     link: https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147
