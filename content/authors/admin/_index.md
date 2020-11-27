@@ -17,7 +17,7 @@ social:
     icon_pack: fas
     link: tadeu.teixeira@ufma.br
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fas
     link: https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147
   - icon: google-scholar
     icon_pack: fab
