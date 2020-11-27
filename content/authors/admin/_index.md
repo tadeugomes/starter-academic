@@ -14,10 +14,10 @@ interests:
   - Applied Machine Learning
 social:
   - icon: envelope
-    icon_pack: ai
-    link: tadeu.teixeira arroba ufma.br
+    icon_pack: fas
+    link: tadeu.teixeira@ufma.br
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://br.linkedin.com/in/tadeu-gomes-teixeira-a12358147
   - icon: lattes
     icon_pack: ai
