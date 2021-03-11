@@ -9,7 +9,7 @@ authors:
 tags:
   - Trabalho
   - Políticas Públicas
-external_link: https://omtmaranhao.com/
+external_link: https://omtmaranhao.wixsite.com/omtmaranhao
 image:
   filename: featured.png
   focal_point: Smart
