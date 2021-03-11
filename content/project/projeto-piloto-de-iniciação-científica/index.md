@@ -5,10 +5,10 @@ draft: false
 featured: true
 categories:
   - PIBIC
-external_link: https://tadeuteixeira.netlify.app/#projects
+external_link: https://pibicuabmaranhao.com.br/
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-Este projeto, realizado em parceria com os polos da UAB do Maranhão, é um projeto piloto de iniciação científica.
+Projeto desenvolvido com foco na formação científica de alunos dos polos das Universidades Abertas do Brasil no estado do Maranhão. Trata-se de um projeto piloto que a CAPES demandou à Universidade Federal do Maranhão, por meio da Diretoria de Tecnologias da Informação, para testar a viabilidade da formação científica  - nos moldes da tradicional iniciação científica - a ser adotado na rede de polos da UAB.
